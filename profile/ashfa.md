@@ -19,9 +19,11 @@ Namamu : Muhammad Alifudin Ashfa
 
 ### Anime
 
--
--
--
+- Tokyo Ghoul
+- Shingeki No Kyujin
+- One Punch Man
+- Boku No Hero Academia
+- Fairy Tail
 
 ### klub bola
 
@@ -31,4 +33,4 @@ Namamu : Muhammad Alifudin Ashfa
 
 ### Profile Link
 
-[Nama](https://github.com/usernamekamu)
+[Muhammad Alifudin Ashfa](https://github.com/alifudin-ashfa)
