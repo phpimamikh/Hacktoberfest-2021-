@@ -9,7 +9,7 @@ Namamu : Muhammad Alifudin Ashfa
 - Kampung  : Rawa Bugel
 
 ### Sekolah / Akademik
--
+- MA Nurul Hadid (Sedong Windu Haji Cirebon)
 
 ### Bahasa Pemograman
 
@@ -25,7 +25,7 @@ Namamu : Muhammad Alifudin Ashfa
 
 ### klub bola
 
--
+- Manchester City
 -
 -
 
