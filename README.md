@@ -27,6 +27,15 @@ Acara ini bebas untuk siapa saja baik untuk pemula hingga professional sekalipun
 
 - Mulailah berkontribusi di berbagai repository di github
 
+# Cara berKontribusi di REPO ini :
+- Fork it!
+- Silahkan COPY code yang berada didalam file `TEMPLATE_PROFILE.md` lalu kalian edit sesuai dengan yang kalian inginkan
+- Buka folder `profile` di repository ini
+  kemudian klik Add File disamping kanan dan klik `Create New File`
+- Beri nama file nya `Namamu.md` Pastekan kode Markdown yang tadi sudah di copy
+- Atau kamu bisa mengisi kode dalam folder code , isikan snippet kode apapun didalam nya
+
+
 # Kontributor List
 <table>
 <tr>
