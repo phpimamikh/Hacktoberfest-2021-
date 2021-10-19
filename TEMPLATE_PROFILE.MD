@@ -9,11 +9,6 @@ Namamu
 ### Sekolah / Akademik
 -
 
-### Hobi
-
--
--
-
 ### Bahasa Pemograman
 
 -
