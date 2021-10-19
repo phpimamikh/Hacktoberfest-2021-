@@ -60,6 +60,20 @@ Acara ini bebas untuk siapa saja baik untuk pemula hingga professional sekalipun
             <sub><b>Dwi Sugi</b></sub>
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/Alimaja">
+            <img src="https://avatars.githubusercontent.com/u/92705063?v=4" width="100;" alt="Alimaja"/>
+            <br />
+            <sub><b>Alimaja</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/alifudin-ashfa">
+            <img src="https://avatars.githubusercontent.com/u/55500620?v=4" width="100;" alt="Alifudin Ashfa"/>
+            <br />
+            <sub><b>Alifudin Ashfa</b></sub>
+        </a>
+    </td>
  </tr>
 </table>
 
