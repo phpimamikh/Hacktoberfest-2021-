@@ -33,4 +33,4 @@ Namamu : Muhammad Alifudin Ashfa
 
 ### Profile Link
 
-[Nama](https://github.com/alifudin-ashfa)
+[Muhammad Alifudin Ashfa](https://github.com/alifudin-ashfa)
