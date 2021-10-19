@@ -1,5 +1,5 @@
 # Nama
-Namamu
+Fat Penguin
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNcWZssTxDf8eaG9h38isUcNL7XnLEtBFgaA&usqp=CAU" width="200" height="200" align="center"/>
 
@@ -20,4 +20,4 @@ AMIKOM yogyakarta
 
 ### Profile Link
 
-[Nama](https://github.com/Rdx11)
+[Fat Penguin](https://github.com/Rdx11)
