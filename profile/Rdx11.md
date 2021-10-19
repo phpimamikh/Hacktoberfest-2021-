@@ -18,6 +18,12 @@ AMIKOM yogyakarta
 - JS
 - Dart
 
+### Anime
+- HXH
+
+### klub bola
+- BARCELONA
+
 ### Profile Link
 
 [Fat Penguin](https://github.com/Rdx11)
