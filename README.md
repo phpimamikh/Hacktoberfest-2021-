@@ -76,9 +76,9 @@ Acara ini bebas untuk siapa saja baik untuk pemula hingga professional sekalipun
     </td>
     <td align="center">
         <a href="https://github.com/eepnasibungkos">
-            <img src="https://avatars.githubusercontent.com/u/58653662?v=4" width="100;" alt="Eepnasibungkos"/>
+            <img src="https://avatars.githubusercontent.com/u/58653662?v=4" width="100;" alt="Devi Aprianto"/>
             <br />
-            <sub><b>Eepnasibungkos</b></sub>
+            <sub><b>Devi Aprianto</b></sub>
         </a>
     </td>
  </tr>
