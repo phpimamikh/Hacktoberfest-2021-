@@ -41,23 +41,23 @@ Acara ini bebas untuk siapa saja baik untuk pemula hingga professional sekalipun
 <tr>
     <td align="center">
         <a href="https://github.com/Rdx11">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNcWZssTxDf8eaG9h38isUcNL7XnLEtBFgaA&usqp=CAU" width="100;" alt="rizkytegar"/>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNcWZssTxDf8eaG9h38isUcNL7XnLEtBFgaA&usqp=CAU" width="100;" alt="Fat penguin"/>
             <br />
             <sub><b>Fat Penguin</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/yosadade">
-            <img src="https://avatars.githubusercontent.com/u/50354520?v=4" width="100;" alt="rizkytegar"/>
+            <img src="https://avatars.githubusercontent.com/u/50354520?v=4" width="100;" alt="yosadade"/>
             <br />
             <sub><b>Yosa Dade</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/dwisugi">
-            <img src="https://avatars.githubusercontent.com/u/43022529?v=4" width="100;" alt="rizkytegar"/>
+            <img src="https://avatars.githubusercontent.com/u/43022529?v=4" width="100;" alt="Dwi sugianto"/>
             <br />
-            <sub><b>Fat Penguin</b></sub>
+            <sub><b>Dwi Sugi</b></sub>
         </a>
     </td>
  </tr>
