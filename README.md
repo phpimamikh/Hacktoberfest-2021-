@@ -34,14 +34,7 @@ Acara ini bebas untuk siapa saja baik untuk pemula hingga professional sekalipun
         <a href="https://github.com/Rdx11">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNcWZssTxDf8eaG9h38isUcNL7XnLEtBFgaA&usqp=CAU" width="100;" alt="rizkytegar"/>
             <br />
-            <sub><b>>Fat Penguin</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/rizkytegar">
-            <img src="https://avatars.githubusercontent.com/u/55475891?v=4" width="100;" alt="rizkytegar"/>
-            <br />
-            <sub><b>>_Rizky.dev</b></sub>
+            <sub><b>Fat Penguin</b></sub>
         </a>
     </td>
  </tr>
