@@ -46,6 +46,20 @@ Acara ini bebas untuk siapa saja baik untuk pemula hingga professional sekalipun
             <sub><b>Fat Penguin</b></sub>
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/yosadade">
+            <img src="https://avatars.githubusercontent.com/u/50354520?v=4" width="100;" alt="rizkytegar"/>
+            <br />
+            <sub><b>Yosa Dade</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/dwisugi">
+            <img src="https://avatars.githubusercontent.com/u/43022529?v=4" width="100;" alt="rizkytegar"/>
+            <br />
+            <sub><b>Fat Penguin</b></sub>
+        </a>
+    </td>
  </tr>
 </table>
 
