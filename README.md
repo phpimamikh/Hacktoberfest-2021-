@@ -27,7 +27,7 @@ Acara ini bebas untuk siapa saja baik untuk pemula hingga professional sekalipun
 
 - Mulailah berkontribusi di berbagai repository di github
 
-# Cara berKontribusi di REPO ini :
+# Cara Kontribusi di REPO ini :
 - Fork it!
 - Silahkan COPY code yang berada didalam file `TEMPLATE_PROFILE.md` lalu kalian edit sesuai dengan yang kalian inginkan
 - Buka folder `profile` di repository ini
