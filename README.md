@@ -74,6 +74,13 @@ Acara ini bebas untuk siapa saja baik untuk pemula hingga professional sekalipun
             <sub><b>Alifudin Ashfa</b></sub>
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/eepnasibungkos">
+            <img src="https://avatars.githubusercontent.com/u/58653662?v=4" width="100;" alt="Eepnasibungkos"/>
+            <br />
+            <sub><b>Eepnasibungkos</b></sub>
+        </a>
+    </td>
  </tr>
 </table>
 
