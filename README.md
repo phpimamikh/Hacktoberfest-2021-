@@ -81,6 +81,13 @@ Acara ini bebas untuk siapa saja baik untuk pemula hingga professional sekalipun
             <sub><b>Devi Aprianto</b></sub>
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/FebrianS-putra">
+            <img src="https://avatars.githubusercontent.com/u/92114252?v=4" width="100;" alt="Febrian"/>
+            <br />
+            <sub><b>Febrian S.Putra</b></sub>
+        </a>
+    </td>
  </tr>
 </table>
 
