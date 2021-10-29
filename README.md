@@ -88,6 +88,13 @@ Acara ini bebas untuk siapa saja baik untuk pemula hingga professional sekalipun
             <sub><b>Febrian S.Putra</b></sub>
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/rasyid2027">
+            <img src="https://avatars.githubusercontent.com/rasyid2027" width="100;" alt="Febrian"/>
+            <br />
+            <sub><b>Febrian S.Putra</b></sub>
+        </a>
+    </td>
  </tr>
 </table>
 
