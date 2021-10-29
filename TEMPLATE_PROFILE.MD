@@ -1,7 +1,7 @@
 # Nama
 Namamu
 
-<img src="" width="200" height="200" align="center"/>
+<img src="https://avatars.githubusercontent.com/<username_github>" width="200" height="200" align="center"/>
 
 ### Provisi & Kota
 -
