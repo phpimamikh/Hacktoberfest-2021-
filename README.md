@@ -90,9 +90,9 @@ Acara ini bebas untuk siapa saja baik untuk pemula hingga professional sekalipun
     </td>
     <td align="center">
         <a href="https://github.com/rasyid2027">
-            <img src="https://avatars.githubusercontent.com/rasyid2027" width="100;" alt="Febrian"/>
+            <img src="https://avatars.githubusercontent.com/rasyid2027" width="100;" alt="Rasyid M.P"/>
             <br />
-            <sub><b>Febrian S.Putra</b></sub>
+            <sub><b>Halimur Rasyid M.P</b></sub>
         </a>
     </td>
  </tr>
