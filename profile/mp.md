@@ -17,6 +17,7 @@ Halimur Rasyid MP
 
 ### Anime
 
+- One Piece
 - OnichiChi
 - Shoujo Ramune
 - High School DxD
